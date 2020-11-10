@@ -1,0 +1,10 @@
+.k{
+    display: flex;
+    flex-direction: column;
+}
+.first{
+    max-width: 50%;
+}
+a{
+    font-size: 30px;
+}
